@@ -108,13 +108,3 @@ new_patient_data = pd.DataFrame({
 new_patient_data_result = loaded_log_reg_pipe.predict(new_patient_data)
 
 new_patient_data_result_probability = loaded_log_reg_pipe.predict_proba(new_patient_data)
-
-
-
-
-
-
-
-
-
-
