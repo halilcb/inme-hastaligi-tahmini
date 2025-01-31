@@ -6,7 +6,7 @@ Bu proje inme hastalığının tahmini için makine öğrenmesi yöntemlerini ku
 
 ## Veri Seti
 
-Bu projede kullanılan veri seti, Dünya Sağlık Örgütü (WHO) tarafından paylaşılan "Healthcare Dataset Stroke Data" veri setidir. Bu veri seti, bir hastanede kayıt altına alınan hastaların bazı klinik ve demografik bilgilerini içermektedir.  Veri setinde bireylerin yaş, cinsiyet, hipertansiyon, kalp hastalığı geçmişi, glikoz seviyesi, vücut kitle indeksi (BMI) gibi faktörleri yer almaktadır.
+Bu projede kullanılan veri seti, Dünya Sağlık Örgütü (WHO) tarafından paylaşılan "Stroke Prediction Dataset" veri setidir. Bu veri seti, bir hastanede kayıt altına alınan hastaların bazı klinik ve demografik bilgilerini içermektedir.  Veri setinde bireylerin yaş, cinsiyet, hipertansiyon, kalp hastalığı geçmişi, glikoz seviyesi, vücut kitle indeksi (BMI) gibi faktörleri yer almaktadır.
 
 ### Veri Setindeki Değişkenler:
 - gender: Cinsiyet (Male, Female, Other)
